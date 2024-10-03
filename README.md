@@ -32,7 +32,7 @@
                          font-style: italic;
         }   
         h3 {
-            color: #40E0D0;            
+            color: #e5c100;            
             font-style: italic;
  
         }
