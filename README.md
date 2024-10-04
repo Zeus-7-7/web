@@ -66,7 +66,7 @@
         <p>  Queridos amigos y familiares, </p>
         <p>Con alegría, les invito a acompañarme en un día tan especial para mí.</p>
         <p><strong>Mis papas:</strong> Miguel Ángel Ramírez Rodríguez</p>       <p> Betih Emma Zetina Robles </p>
-        <p><strong>Mis padrinos:</strong> Mario Mirafuentes </p>
+        <p><strong>Mis padrinos:</strong> Mario Mirafuentes Menchaca </p>
                    <p>Ivone Gonzáles Mesillas</p>
         <p><strong>Fecha:</strong> 16 de Noviembre de 2024</p>
         <p><strong>Lugar de la misa:</strong> Iglesia de San Mateo Tlalchichilpan </p>
