@@ -71,7 +71,7 @@
         <p><strong>Fecha:</strong> 16 de Noviembre de 2024</p>
         <p><strong>Lugar de la misa:</strong> Iglesia de San Mateo Tlalchichilpan </p>
         <p><strong>Hora:</strong> 11:00 AM </p>
-        <p>Después de la ceremonia religiosa esperamos contar con su presencia a partir de las 15 horas en el:</p>
+        <p>Después de la ceremonia religiosa te esperamos a partir de las 15 horas en el:</p>
          <a href="https://www.google.com/maps/place/Sal%C3%B3n+los+condes/@19.1571301,-99.6186107,17z/data=!3m1!4b1!4m6!3m5!1s0x85cd8db5e0837ba3:0x532be590446a3335!8m2!3d19.1571301!4d-99.6160358!16s%2Fg%2F11h7qnrfr6?entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D" class="btn">Salón Los Condes</a>
         <div class="footer">
             <p>  Te pido Señor que derrames sobre mí la sabiduría, el amor y la devoción para ser una hija digna de tu amor </p>
