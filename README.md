@@ -43,8 +43,9 @@
             background-color: #5a67d8;
             color: white;
             text-decoration: none;
-            border-radius: 5px;
+            border-radius: 50px;
             font-size: 18px;
+             animation: pulse 2s infinite; /* Pequeño efecto de pulsación */
         }
         .btn:hover {
             background-color: #4c51bf;
@@ -54,6 +55,14 @@
             font-size: 12px;
             color: #777;
         
+        }
+         @keyframes pulse {
+            0%, 100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
         }
     </style>
 </head>
